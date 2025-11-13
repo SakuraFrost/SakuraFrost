@@ -1,6 +1,6 @@
 # Hi, I'm Sela 👋
 
-I'm an Information and Communication Technology undergraduate student.
+I'm an Information and Communication Technology undergraduate student with a passion for games.
 
 -   🌱 I’m currently studying C, C++, C#, Godot, and Assembly.
 -   🎮 My focus is on game development and design, exploring everything from low-level programming to gameplay mechanics.
@@ -13,8 +13,9 @@ I'm an Information and Communication Technology undergraduate student.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-6E4C13?style=for-the-badge&logo=x.org&logoColor=white)
+
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
